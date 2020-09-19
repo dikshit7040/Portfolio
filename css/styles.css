@@ -1,0 +1,394 @@
+body{
+    margin: 0px ;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+    background-color: #e8e8e8;
+}
+
+.top-container{
+    background-color: #e3fdfd;
+    width: 100%;
+    margin: auto;
+    position: relative;
+
+    
+}
+
+.mid-container{
+    margin: auto;
+}
+   
+
+    .profile{
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5%;
+        padding-top: 7%;
+
+    }
+
+    .skill{
+        width: 50%;
+        margin: auto;
+        position: relative;
+
+    }
+
+        .skill-row{
+            padding-bottom: 10%;
+            padding-top: 10%;
+
+        }
+
+    .Awards{
+        width: 80;
+    }    
+
+
+
+.bottom-container{
+    background-color: #e3fdfd;
+    padding: 20px;
+    border-style: solid;
+    border-width: 2%;
+    border-color: black;
+}
+
+.qualification{
+    padding-bottom: 6%;
+    padding-top: 6%;
+    width: 80%;
+    position: relative;
+    margin: auto;
+}
+
+.contact-me{
+    padding-bottom: 6%;
+    padding-top: 6%;
+}
+
+.btn-message{
+    width: 40%;
+    padding: 1% 0px 1% 0px;
+    border-color: black;
+    border-radius: 12px;
+    color: black;
+    background-color: #71c9ce ;
+    font-size: 160%;
+    margin-top: 6%;
+
+}
+
+
+
+/*********************************************************************Images Start******************************************************************/
+
+
+.top-cloud{
+    padding-top: 1%;
+    }
+
+.bottom-cloud{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+}
+
+.bottom-cloud-two{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+
+}
+
+
+.languages-image{
+    position: absolute;
+    padding-top: 20%;
+    margin-top: 60%;
+}
+
+.skills-images{
+    height: 120px;
+}
+
+.cplus {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 10%;
+    margin-left: 4%;
+    margin-right: 4%;
+
+}
+
+.python{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 10%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.javascript{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 10%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.css{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 10%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.html{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 10%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.person-upper{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 12%;
+    position: absolute;
+    left: 0%;
+    bottom: 20%;
+}
+
+
+.person-lower{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 50%;
+    width: 12%;
+    position: absolute;
+    right: 0%;
+    bottom: 6%;
+
+}
+
+
+.main-logo{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 50%;   
+    width: 6%;  
+    position: absolute;
+    left: 8%;
+
+}
+
+.dikshit{
+    border-radius: 50%;   
+    width: 25%;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+}
+
+/**************************************************************************Image End*********************************************************************/
+
+
+
+
+/***************************************************************************Text*************************************************************************/
+
+h6{
+    display: inline;
+}
+
+.about-bio{
+    width: 80%;
+    margin: 0px auto 0px auto;
+    color:#0fabbc;
+
+
+}
+
+.main-name{
+    font-family: 'Sacramento', cursive;
+    font-size: 450%;
+    margin-bottom: 0px;
+    padding-top: 0.8% ;
+    color: #0fabbc;
+
+}
+
+.develop{
+    display: inline;
+    color:#0fabbc;
+    position: absolute;
+    bottom: 8%;
+    left: 0%;
+}
+
+.design{
+    display: inline;
+    color:#0fabbc;
+    position: absolute;
+    bottom: 23.5%;
+    right: 24%;
+
+}
+
+.hey{
+    margin: 20px auto 30px auto;
+    color:#0fabbc;
+    font-size: 250%;
+
+}
+
+hr{
+    border-style: dotted;
+    border-color: #99ddcc;
+    width: 8%;
+    border-width: 6px 0px 0px 0px;
+    color:#0fabbc;
+
+}
+
+.info-one{
+    width: 60%;
+    color:#0fabbc;
+    text-align: left;
+    margin: auto;
+    position: absolute;
+    right: 0%;
+    bottom: 20%;
+}
+
+.info-two{
+    width: 60%;
+    color:#0fabbc;
+    text-align: left;
+    margin: auto;
+    position: absolute;
+    left: 0%;
+    bottom: 5%;
+
+}
+
+.programming{
+    color:#0fabbc;
+    position: absolute;
+    left: 35%;
+    top: 5%;
+    margin-top: 7%;
+
+
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    display: inline;
+}
+
+.contact-info{
+    width: 30%;
+    margin: 4% auto 0px auto;
+    color:#0fabbc;
+    line-height: 2;
+
+}
+
+.short-intro{
+    font-size: 120%;
+    color: #0fabbc;
+}
+
+.h-three{
+    margin-right: 6%;
+}
+
+
+.footer{
+    padding: 2% 8% 0% 2%;
+    text-decoration: none;
+    color: #047b88;
+}
+
+.footer:hover{
+    color: black;
+}
+
+.footer-text{
+    font-size: 60%;
+    padding: 0.2%;
+}
+
+.qualification-row{
+    text-align: left;
+}
+
+.qualification-row-ielts{
+    text-indent: 5%;
+}
+
+
+.qualification-row-sub-ielts{
+    text-indent: 10%;
+}
+
+.qualification-row-sat{
+    text-indent: 5%;
+}
+
+
+.qualification-row-sub-sat{
+    text-indent: 10%;
+}
+
+.qualification-row-ten{
+    text-indent: 5%;
+}
+
+.q{
+    border-style: solid;
+    border-color: #0fabbc;
+    width: 100%;
+    border-width: 1px 0px 0px 0px;
+    color:black;
+    padding: 2%;
+
+}
+
+.bold-qualification{
+    font-size: 300%;
+    color: #0fabbc;
+}
+
+.bold-myskills{
+    font-size: 300%;
+    margin-bottom: 5%;
+    color: #0fabbc;
+}
